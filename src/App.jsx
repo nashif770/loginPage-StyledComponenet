@@ -46,7 +46,6 @@ const MainContainer = styled.div`
   justify-content: center;
   height: 100vh;
   width: 100vw;
-  border: 2px solid red;
   padding: 10px 0;
   @media only screen and (max-width: 820px) {
     flex-direction: column-reverse;
